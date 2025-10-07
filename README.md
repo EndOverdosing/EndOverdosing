@@ -17,4 +17,4 @@ I also advocate for men’s mental health and work on the Trust & Safety team at
 * **[Rylox](https://github.com/EndOverdosing/Rylox)** — Download SoundCloud tracks as MP3 with selectable quality.
 * **[Soluna](https://github.com/EndOverdosing/Soluna)** — Hub for 20+ keyless scripts with streamlined access.
 * **[Monitor Uptime](https://github.com/EndOverdosing/Monitor-Uptime)** — Uptime monitoring and status page powered by GitHub Actions.
-* **[YouTube-Video-Scraper](https://github.com/EndOverdosing/Youtube-Video-Scraper)** — Scrapes metadata, comments, or video data from YouTube.
+* **[YouTube-Video-Scraper](https://github.com/EndOverdosing/Youtube-Video-Scraper)** — Scrapes metadata, and displays downloadable URLS.
