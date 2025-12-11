@@ -33,9 +33,9 @@ Ad-free movie and show streaming interface with PWA support.
 **Live:** [vyla.vercel.app](https://vyla.vercel.app)  
 **Discord:** [discord.gg/5eqRhKeywG](https://discord.gg/5eqRhKeywG)
 
-### [Vyla Games](https://github.com/EndOverdosing/Vyla-Games)
-Unblocked gaming platform with a clean UI and customizable themes.  
-**Live:** [vyla-games.vercel.app](https://vyla-games.vercel.app)
+### [Koyso Game Scraper](https://github.com/EndOverdosing/Koyso-Game-Scraper)
+Python script to scrape games from Koyso, view details, and retrieve final download links with optional automatic downloading.
+**GitHub:** [Koyso-Game-Scraper](https://github.com/EndOverdosing/Koyso-Game-Scraper)
 
 ### [Ovala](https://github.com/EndOverdosing/Ovala)
 Web proxy for bypassing censorship using Node Unblocker.  
