@@ -1,3 +1,5 @@
+![About Me Banner](/images/banner.png)
+
 ## About Me
 
 I began coding over five years ago with Lua and have spent the past three years specializing in full-stack web development.  
